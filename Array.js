@@ -11,7 +11,7 @@ function deleteElement(arr, index) {
     return arr;
 }
 
-let arr = [1, 2, 3, 4, 5];
+let arr = [1, 2, 3, 4, 5, 6];
 let indexToDelete = 2;
 deleteElement(arr, indexToDelete);
 console.log(arr);
